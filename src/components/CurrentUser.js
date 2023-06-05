@@ -17,7 +17,7 @@ export function CurrentUser({ id }) {
   //       setError(true);
   //     }
   //   }
-  //
+  
   //   getData();
   // }, [id]);
 
